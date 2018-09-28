@@ -1,0 +1,51 @@
+---
+title: "Brush Chi Square"
+author: "Brad Anderson"
+date: "September 28, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+
+groundcover <- read.csv("~/github/westerngate/All_Groundcover.csv")
+```
+
+```{r}
+women <- c(44, 135, 31, 5)
+men <- c(89, 198, 20, 11)
+
+family_needs <- rbind(women, men)
+colnames(family_needs) <- c("Strongly Agree" , "Agree" , "Disagree" ,"Strongly Disagree")
+```
+
+```{r}
+
+row.names(groundcover) <- groundcover$X
+
+groundcover$X <- NULL
+
+```
+
+```{r}
+
+gc_chi <- chisq.test(groundcover)
+gc_chi
+
+```
+
+
+```{r}
+
+old <- unlist(groundcover[1,])
+new <- unlist(groundcover[2,]) 
+
+gc_mwu <- wilcox.test(old, new)
+gc_mwu
+
+```
+
