@@ -1,0 +1,113 @@
+PLOTKEY,BRUSH_SPECIES,PERCENT,name
+157F110,Lit A,2,LITTER: Quercus agrifolia
+157F110,Ac,19,Artemisia californica
+157F111,Da,18,Diplacus aurantiacus
+157F110,Rd,11,Rhus diversiloba
+157F110,Bp,7,Baccharis pilularis
+157F110,Rc,2,Rhamnus californica
+157F110,Eco2,3,Elymus condensatus
+157F110,Rcr,5,Rhamnus crocea
+157F110,Qa,1,Quercus agrifolia frutescens
+157F110,Lit Pa,5,LITTER: Photinia arbutifolia
+157F110,Lhc,3,Lonicera hispidula californica
+157F110,Ba,3,Barren
+157F110,(Da),1,Diplacus aurantiacus
+157F110,Pa,7,Photinia arbutifolia
+157F110,(Ac),7,Artemisia californica
+157F110,Gr,6,grass
+157F111,Sl,83,Salvia leucophylla
+157F111,Ac,17,Artemisia californica
+157F112,Gr,30,grass
+157F112,Rd,27,Rhus diversiloba
+157F112,Ann,10,Annuals
+157F112,Lit A,31,LITTER: Quercus agrifolia
+157F112,Eco2,1,Elymus condensatus
+157F112,Bare,1,Barren
+157F113,Sl,14,Salvia leucophylla
+157F113,Cog,5,Coreopsis gigantea
+157F113,Gr,28,grass
+157F113,Ac,26,Artemisia californica
+157F113,Eco2,11,Elymus condensatus
+157F113,Da,2,Diplacus aurantiacus
+157F113,Bare,2,Barren
+157F113,Sg,10,Sambucus glauca
+157F113,Rcr,2,Rhamnus crocea
+157F14,Bp,20,Baccharis pilularis
+157F14,Rd,16,Rhus diversiloba
+157F14,Bare,3,Barren
+157F14,(Ac),4,Artemisia californica
+157F14,Da,15,Diplacus aurantiacus
+157F14,Ac,20,Artemisia californica
+157F14,Lit Ac,1,LITTER: Artemisia californica
+157F14,Qa,2,Quercus agrifolia frutescens
+157F14,Ls,9,Lotus scoparius
+157F14,Rc,9,Rhamnus californica
+157F14,(Bp),1,Baccharis pilularis
+157F15,Lit A,61,LITTER: Quercus agrifolia
+157F15,Gr,28,grass
+157F15,Rd,9,Rhus diversiloba
+157F15,Qa,2,Quercus agrifolia frutescens
+157F16,Ac,56,Artemisia californica
+157F16,Da,20,Diplacus aurantiacus
+157F16,Rcr,11,Rhamnus crocea
+157F16,Rc,3,Rhamnus californica
+157F16,Sm,2,Salvia mellifera
+157F16,Rd,2,Rhus diversiloba
+157F16,Gr,3,grass
+157F16,Bare,1,Barren
+157F16,Sg,2,Sambucus glauca
+157F17,Sl,62,Salvia leucophylla
+157F17,Gr,16,grass
+157F17,Ac,11,Artemisia californica
+157F17,Bare,7,Barren
+157F17,Bp,4,Baccharis pilularis
+157F18,Lit A,46,LITTER: Quercus agrifolia
+157F18,Bare,4,Barren
+157F18,Rd,35,Rhus diversiloba
+157F18,Gr,7,grass
+157F18,Trunk,3,Trunk
+157F18,Ann,4,Annuals
+157F18,Qa,1,Quercus agrifolia frutescens
+157F19,Sl,74,Salvia leucophylla
+157F19,Rd,3,Rhus diversiloba
+157F19,Enc,1,Encelia californica
+157F19,Ac,13,Artemisia californica
+157F19,Bare,2,Barren
+157F19,Hs,1,Hazardia squarrosa
+157F19,Eco2,1,Elymus condensatus
+157F19,Gr,5,grass
+157F27,Agl,77,Arctostaphylos glandulosa
+157F27,Sm,7,Salvia mellifera
+157F27,(Sm),1,Salvia mellifera
+157F27,(Ls),3,Lotus scoparius
+157F27,Ac,5,Artemisia californica
+157F27,Bare,7,Barren
+157F28,Sm,72,Salvia mellifera
+157F28,Gr,3,grass
+157F28,Qa,1,Quercus agrifolia frutescens
+157F28,Cc,7,Ceanothus cuneatus
+157F28,Ac,6,Artemisia californica
+157F28,Bare,4,Barren
+157F28,(Sm),4,Salvia mellifera
+157F28,(Cc),1,Ceanothus cuneatus
+157F28,Af,2,Adenostoma fasciculatum
+157G11,Gr,41,Grass
+157G11,Rd,5,Rhus diversiloba
+157G11,Qa,8,Quercus agrifolia frutescens
+157G11,Lit A,44,LITTER: Quercus agrifolia
+157G11,Ss,1,Salvia spathacea
+157G11,Rv,1,Rubus vitifolius
+157G12,Gr,49,Grass
+157G12,Lit A,50,LITTER: Quercus agrifolia
+157G12,Bare,1,Barren
+157G13,Gr,59,Grass
+157G13,Ac,29,Artemisia californica
+157G13,Bare,12,Barren
+157G14,Gr,83,Grass
+157G14,Ac,7,Artemisia californica
+157G14,Qa,4,Quercus agrifolia frutescens
+157G14,Bare,2,Barren
+157G14,Lit A,4,LITTER: Quercus agrifolia
+157G15,Ma,95,Mesembryanthemum aequilaterale
+157G15,(Ma),4,Mesembryanthemum aequilaterale
+157G15,Gr,1,Grass

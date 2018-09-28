@@ -1,0 +1,86 @@
+PLOTKEY,BRUSH_SPECIES,PERCENT,name,total_percent
+157F110,Rd,38,Rhus diversiloba,2.24
+157F110,Rc,28,Rhamnus californica,1.65
+157F110,Ac,18,Artemisia californica,1.06
+157F110,Bp,16,Baccharis pilularis,0.94
+157F111,Sl,92,Salvia leucophylla,5.41
+157F111,Enc,6,Encelia californica,0.35
+157F111,Rd,1,Rhus diversiloba,0.06
+157F111,Ac,1,Artemisia californica,0.06
+157F112,Rd,30,Rhus diversiloba,1.76
+157F112,Lit A,26,LITTER: Quercus agrifolia,1.53
+157F112,F1,20,Polystichum sp.,1.18
+157F112,Gr,9,Grass,0.53
+157F112,Rv,6,Rubus vitifolius,0.35
+157F112,Da,5,Diplacus aurantiacus,0.29
+157F112,Rc,3,Rhamnus californica,0.18
+157F112,Sg,1,Sambucus glauca,0.06
+157F113,Sl,14,Salvia leucophylla,0.82
+157F113,Cog,5,Coreopsis gigantea,0.29
+157F113,Gr,28,grass,1.65
+157F113,Ac,26,Artemisia californica,1.53
+157F113,Eco2,11,Elymus condensatus,0.65
+157F113,Da,2,Diplacus aurantiacus,0.12
+157F113,Bare,2,Barren,0.12
+157F113,Sg,10,Sambucus glauca,0.59
+157F113,Rcr,2,Rhamnus crocea,0.12
+157F14,Bp,20,Baccharis pilularis,1.18
+157F14,Rd,16,Rhus diversiloba,0.94
+157F14,Bare,3,Barren,0.18
+157F14,(Ac),4,Artemisia californica,0.24
+157F14,Da,15,Diplacus aurantiacus,0.88
+157F14,Ac,20,Artemisia californica,1.18
+157F14,Lit Ac,1,LITTER: Artemisia californica,0.06
+157F14,Qa,2,Quercus agrifolia frutescens,0.12
+157F14,Ls,9,Lotus scoparius,0.53
+157F14,Rc,9,Rhamnus californica,0.53
+157F14,(Bp),1,Baccharis pilularis,0.06
+157F15,Lit A,61,LITTER: Quercus agrifolia,3.59
+157F15,Rd,20,Rhus diversiloba,1.18
+157F15,Pta,13,Pteris aquilina lanuginosa,0.76
+157F15,Rc,6,Rhamnus californica,0.35
+157F16,Ac,87,Artemisia californica,5.12
+157F16,Rd,9,Rhus diversiloba,0.53
+157F16,Rc,2,Rhamnus californica,0.12
+157F16,Sg,1,Sambucus glauca,0.06
+157F16,Rs,1,Ribes sanguineum,0.06
+157F17,Sl,59,Salvia leucophylla,3.47
+157F17,Ac,23,Artemisia californica,1.35
+157F17,Pa,8,Photinia arbutifolia,0.47
+157F17,Rcr,7,Rhamnus crocea,0.41
+157F17,Pi,1,Prunus ilicifolia ,0.06
+157F17,Rm,1,Ribes malvaceum,0.06
+157F17,Rd,1,Rhus diversiloba,0.06
+157F18,Lit A,81,LITTER: Quercus agrifolia,4.76
+157F18,Rc,8,Rhamnus californica,0.47
+157F18,Rd,7,Rhus diversiloba,0.41
+157F18,Rcr,4,Rhamnus crocea,0.24
+157F19,Sl,86,Salvia leucophylla,5.06
+157F19,Ac,12,Artemisia californica,0.71
+157F19,Rd,2,Rhus diversiloba,0.12
+157F27,Af,79,Adenostoma fasciculatum,4.65
+157F27,Sm,13,Salvia mellifera,0.76
+157F27,Qa,3,Quercus agrifolia frutescens,0.18
+157F27,Ac,2,Artemisia californica,0.12
+157F27,Bp,2,Baccharis pilularis,0.12
+157F27,Pa,1,Photinia arbutifolia,0.06
+157F28,Af,74,Adenostoma fasciculatum,4.35
+157F28,Agl,15,Arctostaphylos glandulosa,0.88
+157F28,Cc,4,Ceanothus cuneatus,0.24
+157F28,Qa,4,Quercus agrifolia frutescens,0.24
+157F28,Sm,3,Salvia mellifera,0.18
+157G11,Gr,41,Grass,2.41
+157G11,Rd,33,Rhus diversiloba,1.94
+157G11,Lit A,11,LITTER: Quercus agrifolia,0.65
+157G11,Da,8,Diplacus aurantiacus,0.47
+157G11,Rc,5,Rhamnus californica,0.29
+157G11,Ac,2,Artemisia californica,0.12
+157G12,Lit A,83,LITTER: Quercus agrifolia,4.88
+157G12,Gr,17,Grass,1
+157G13,Ac,45,Artemisia californica,2.65
+157G13,Sm,38,Salvia mellifera,2.24
+157G13,Enc,17,Encelia californica,1
+157G14,Gr,100,Grass,5.88
+157G15,Hs,58,Hazardia squarrosa,3.41
+157G15,Ac,28,Artemisia californica,1.65
+157G15,Gr,14,Grass,0.82
